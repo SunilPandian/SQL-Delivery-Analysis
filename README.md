@@ -18,6 +18,11 @@ This project analyzes restaurant data from Swiggy to extract meaningful business
 
 ---
 
+## 📊 Dataset
+Dataset sourced from Kaggle. Data includes restaurant details such as price, ratings, delivery time, and location.
+
+---
+
 ## 📈 Key Insights
 - Premium restaurants have higher ratings
 - Faster delivery leads to better customer satisfaction
