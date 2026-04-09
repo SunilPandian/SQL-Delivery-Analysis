@@ -24,3 +24,16 @@ Restaurants with faster delivery times tend to receive higher ratings, suggestin
 
 ## 🧠 Conclusion
 Both pricing strategy and delivery efficiency play a significant role in customer satisfaction and restaurant performance.
+
+---
+
+## 🔬 Advanced Insights
+
+### Top Performers by City
+Top-rated restaurants vary across cities, indicating localized competition and customer preferences.
+
+### Above Average Restaurants
+A subset of restaurants consistently performs above the overall average rating, highlighting strong performers in the dataset.
+
+### Ranking Analysis
+Using ranking techniques, top-performing restaurants were identified both globally and within each city.
