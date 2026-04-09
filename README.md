@@ -37,6 +37,12 @@ It includes information such as:
 - Standardized naming conventions (snake_case)
 - Converted price column to appropriate numeric format
 
+## 🚀 Advanced SQL Techniques
+- Used Common Table Expressions (CTEs) for modular and reusable queries
+- Applied Window Functions like RANK() for ranking analysis
+- Performed group-wise ranking (Top N per city)
+- Solved real-world business problems using advanced SQL logic
+
 ### 🔹 Exploratory Analysis
 - Total number of restaurants
 - Average delivery time
